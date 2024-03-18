@@ -36,6 +36,7 @@ body{
   }
   
   footer{
+    position:absolute;
     padding:20px 0;
     bottom: 0;
     box-sizing: content-box;
@@ -54,7 +55,6 @@ body{
     gap:20px;
   }
   .card{
-    cursor:pointer;
     display:grid;
     place-items:center;
   }
